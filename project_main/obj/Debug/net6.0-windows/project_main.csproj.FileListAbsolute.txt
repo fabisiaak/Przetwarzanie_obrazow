@@ -1,0 +1,17 @@
+C:\Users\patry\Desktop\project\project_main\bin\Debug\net6.0-windows\project_main.exe
+C:\Users\patry\Desktop\project\project_main\bin\Debug\net6.0-windows\project_main.deps.json
+C:\Users\patry\Desktop\project\project_main\bin\Debug\net6.0-windows\project_main.runtimeconfig.json
+C:\Users\patry\Desktop\project\project_main\bin\Debug\net6.0-windows\project_main.dll
+C:\Users\patry\Desktop\project\project_main\bin\Debug\net6.0-windows\project_main.pdb
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.Form1.resources
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.csproj.GenerateResource.cache
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.AssemblyInfoInputs.cache
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.AssemblyInfo.cs
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.csproj.CoreCompileInputs.cache
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.dll
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\refint\project_main.dll
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.pdb
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.genruntimeconfig.cache
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\ref\project_main.dll
+C:\Users\patry\Desktop\project\project_main\obj\Debug\net6.0-windows\project_main.Properties.Resources.resources
